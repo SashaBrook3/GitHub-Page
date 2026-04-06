@@ -1,6 +1,6 @@
 # Hello, I'm Sasha!
 
-<img src="Lab1.jpg" width="50%">
+<img src="images/Lab1.jpg" width="45%">
 
 ## **About Me**
 I am a third year Mathematics-Computer Science major at UCSD. I graduated with an associate's degree in Mathematics from West Valley College. Although I have done little in terms of programming projects outside of course material I am very passionate about programming and chose this field because of my interest in it. Outside of computer science I enjoy hobbies such as reading, gaming, and baking.
