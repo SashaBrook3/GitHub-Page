@@ -41,5 +41,5 @@ if(youWant()==true) {
 - [ ] A great job
 
 ### *More about me*
-- [More pictures] (/pictures.md)   
-- [I stream games for fun!](https://www.twitch.tv/lady_art3miss)
+[More pictures] (/pictures.md)   
+[I stream games for fun!](https://www.twitch.tv/lady_art3miss)
