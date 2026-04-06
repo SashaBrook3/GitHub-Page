@@ -14,11 +14,11 @@ I am a third year Mathematics-Computer Science major at UCSD. I graduated with a
 [Link text] (more-about-me)
 
 ### *Languages I know*
--Python
--C
--C++
--Java
--ARMv8
+- Python
+- C
+- C++
+- Java
+- ARMv8
 
 ### *Top 3 reads from last year*
 1. The Song of Achilles
@@ -35,10 +35,10 @@ if(youWant()==true) {
 } else {youCant();}
 ```
 ### *Goals*
-[X] Associate's degree
-[] Bachelor's degree
-[] Internships
-[] A great job
+- [X] Associate's degree
+- [] Bachelor's degree
+- [] Internships
+- [] A great job
 
 ### *More about me*
 [More pictures] (/pictures.md) 
