@@ -6,12 +6,12 @@
 I am a third year Mathematics-Computer Science major at UCSD. I graduated with an associate's degree in Mathematics from West Valley College. Although I have done little in terms of programming projects outside of course material I am very passionate about programming and chose this field because of my interest in it. Outside of computer science I enjoy hobbies such as reading, gaming, and baking.
 
 ## Sections:
-[Link text] (languages-i-know)
-[Link text] (top-3-reads-from-last-year)
-[Link text] (favorite-quote)
-[Link text] (inspirational-code-xd)
-[Link text] (goals)
-[Link text] (more-about-me)
+[Languages I know](#languages-i-know)
+[Top 3 reads from last year](#top-3-reads-from-last-year)
+[Favorite quote](#favorite-quote)
+[Inspirational code](#inspirational-code-xd)
+[Goals](#goals)
+[More about me](#more-about-me)
 
 ### *Languages I know*
 - Python
@@ -36,10 +36,10 @@ if(youWant()==true) {
 ```
 ### *Goals*
 - [X] Associate's degree
-- [] Bachelor's degree
-- [] Internships
-- [] A great job
+- [ ] Bachelor's degree
+- [ ] Internships
+- [ ] A great job
 
 ### *More about me*
-[More pictures] (/pictures.md) 
-I stream games for fun! [Twitch](https://www.twitch.tv/lady_art3miss)
+- [More pictures] (/pictures.md) 
+- [I stream games for fun!](https://www.twitch.tv/lady_art3miss)
